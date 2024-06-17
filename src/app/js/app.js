@@ -146,7 +146,7 @@
     var $typed = $("#typed");
     if ($typed.length) {
       var typed = new Typed("#typed", {
-        strings: ["Software Developer", "Gaming Buff", "Enthusiast","Adventurer","Otaku","Net Savvy","Daydreamer"],
+        strings: ["Software Developer", "Gaming Buff", "Enthusiast","Adventurer","Otaku","Net Savvy","Daydreamer","Introvert","Human Being"],
         loop: true,
         typeSpeed: 70
       });
